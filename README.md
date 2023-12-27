@@ -5,7 +5,7 @@ To enhance the user experience, clients can utilize a position tracker to accura
 
 ## [WorldWise project preview](https://react-project-ReactPizza.netlify.app/)
 
-<img src="/src/assets/reactPizza.mov" alt="Fast React Pizza app" >
+<img src="/src/assets/reactPizza.png" alt="Fast React Pizza app" >
 
 ## Used in App:
 
