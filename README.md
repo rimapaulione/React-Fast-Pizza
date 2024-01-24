@@ -3,7 +3,7 @@
 <p>Fast React Pizza is a simulated React application crafted to simplify the pizza ordering process without the need for account creation. Within the app, users can effortlessly add their name and select desired pizzas from the menu. The flexibility doesn't end there – you can easily adjust quantities, delete selected pizzas, and even set delivery priorities directly from the cart page.
 To enhance the user experience, clients can utilize a position tracker to accurately input their delivery address. Additionally, a unique delivery number ensures easy retrieval of your order, allowing you to track its status seamlessly. </p>
 
-## [WorldWise project preview](https://react-project-ReactPizza.netlify.app/)
+## [ReactPizza project preview](https://react-project-ReactPizza.netlify.app/)
 
 <img src="/src/assets/reactPizza.png" alt="Fast React Pizza app" >
 
